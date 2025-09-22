@@ -26,7 +26,7 @@ https://data.gov.tw/dataset/165027
 
 This checklist is for Ad Guard Home format, please add this link to AdGuard > DNS blocklists
 ```
-https://raw.githubusercontent.com/Kevchia/scamsite/refs/heads/main/blocklist
+https://raw.githubusercontent.com/Kevchia/blocklist_fraudsite/refs/heads/main/blocklist_fraudsite
 ```
 
 <h1>數位發展部數位產業署聲請詐騙網域名稱停止解析網址清單</h1>
@@ -57,5 +57,5 @@ https://data.gov.tw/dataset/165027
 
 本清單適用於Ad Guard Home格式，請將此連結新增到 AdGuard > DNS blocklists
 ```
-https://raw.githubusercontent.com/Kevchia/scamsite/refs/heads/main/blocklist
+https://raw.githubusercontent.com/Kevchia/blocklist_fraudsite/refs/heads/main/blocklist_fraudsite
 ```
