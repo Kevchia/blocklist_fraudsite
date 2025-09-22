@@ -7,7 +7,7 @@
 
 <p>
   <sub>Made with ❤︎ by
-    <a href="https://github.com/Kevchia">KevChia</a> 
+    <a href="https://github.com/Kevchia" target="_blank">KevChia</a> 
   </sub>
 </p>
 
